@@ -105,7 +105,7 @@
 
     <section class="hero">
       <div class=" card-right card">
-        <img src="images/Myphoto.jpg"
+        <img src="photo.jpg"
             alt="Salma Adhikari"
             style="width:100%;border-radius:var(--radius);object-fit:cover;max-height:300px;box-shadow:0 4px 20px rgba(0,0,0,0.3);"
 
